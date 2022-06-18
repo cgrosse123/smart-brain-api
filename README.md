@@ -1,1 +1,1 @@
-# smart-brain-api
+This application lets you create a profile with a login to use a face recognition api. Upload a picture via link and if there is a face in the picture it will let you know! It will keep track of how many detections have been made on your profile. They will then be stored in a database to keep track of how many detections have happend by each user. 
